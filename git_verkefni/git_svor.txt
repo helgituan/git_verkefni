@@ -36,3 +36,6 @@ Linus Torvalds
 
 10.	Hvar er GIT helst notað?
 Hugbúnaður fyrirtæki.
+
+
+Helgi Tuan Helgason
