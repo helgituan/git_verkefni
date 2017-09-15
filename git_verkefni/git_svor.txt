@@ -29,8 +29,10 @@ Working directory er staðurinn þar sem öll skjölin eru geymd.
 Staging area er þar sem þú ert að vinna áður en þú gerir commmit.
 Repository þar geymist allt historyið.
 
-8.	Hvenær er sniðugt að nota greinar (branches)? 
+8.	Hvenær er sniðugt að nota greinar (branches)? þegar er verið að vinna í hlutunum sem er ekki tilbuið svo færum við svo branchinn í masterinn.
 
 9.	Hver fann upp GIT?
+Linus Torvalds
 
 10.	Hvar er GIT helst notað?
+Hugbúnaður fyrirtæki.
