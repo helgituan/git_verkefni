@@ -7,24 +7,27 @@ Git spurningar og svör
 	mkdir	= býr til folder.
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone		= Tekið afrit af gittinu annara manna.
+	git log			= Sýnir hvað var gert í gittinu.
+	git status		= Sjá hvaða branch ég er á.
+	git diff		= Sýnir breytingar a milli commits og virkur tré
+	git checkout	= Skiptir um branch
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff 				= sýnir mun á hlutunum er að vinna með.
+	b) git diff --staged 		= sýnir öll skref í breytingunum.
+	c) git diff commit1 commit2	= sýnir mun á milli tveggja commits.
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. 	Hvað er útgáfustýring (e.version control)? Heldur um breytingar.
 
-5.	Hverjir eru helstu kostir við að nota GIT?
+5.	Hverjir eru helstu kostir við að nota GIT?Git leyfir hóp af fólki í að vinna í sömu hlutunum.
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Eftir hvert lítinn skref sem þú tekur því þá veistu hver gerði það.
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er staðurinn þar sem öll skjölin eru geymd.
+Staging area er þar sem þú ert að vinna áður en þú gerir commmit.
+Repository þar geymist allt historyið.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
